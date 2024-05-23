@@ -1,0 +1,1 @@
+A hamster's head peeks out of this light brown leather shoe <OBJ>shoe.obj</OBJ>.

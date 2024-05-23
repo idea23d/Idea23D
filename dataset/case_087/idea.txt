@@ -1,0 +1,1 @@
+A jacket with a texture inspired by dragon scales <IMG>jacket.png</IMG> and <IMG>dragon_scales.png</IMG>.

@@ -1,0 +1,1 @@
+This house <OBJ>house.obj</OBJ> should have a roof texture like the tiles in <IMG>roof_tiles.png</IMG>.

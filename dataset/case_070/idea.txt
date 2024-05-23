@@ -1,0 +1,1 @@
+Design a lamp with a shade that looks like it’s made of feathers <OBJ>lamp.obj</OBJ> and <IMG>feather_shade.png</IMG>.

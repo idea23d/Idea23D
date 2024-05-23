@@ -1,0 +1,1 @@
+Design a robot with armor that looks like it’s made of crystalline ice <OBJ>robot.obj</OBJ> and <IMG>ice_crystal.png</IMG>.

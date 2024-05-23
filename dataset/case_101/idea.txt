@@ -1,0 +1,1 @@
+Using this 3D model of a kangaroo <OBJ>kangaroo.obj</OBJ>, create a fun playground slide.

@@ -1,0 +1,1 @@
+Replaces tracks <OBJ>tank.obj</OBJ> with car wheels <OBJ>car.obj</OBJ> in the 3D tank model.

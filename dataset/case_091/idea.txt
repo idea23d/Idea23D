@@ -1,0 +1,1 @@
+Based on the grace of a swan, design a high-end dining chair <OBJ>dining_chair.obj</OBJ> and <IMG>swan.png</IMG>.

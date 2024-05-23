@@ -1,0 +1,1 @@
+Make a sculpture that looks like it’s made of melting ice cream <OBJ>sculpture.obj</OBJ> and <IMG>melting_ice_cream.png</IMG>.

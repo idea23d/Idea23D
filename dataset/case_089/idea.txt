@@ -1,0 +1,1 @@
+Design a robot that looks like it’s made from old, rusty metal <OBJ>robot.obj</OBJ> and <IMG>rusty_metal.png</IMG>.

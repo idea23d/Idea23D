@@ -1,0 +1,1 @@
+Create a cozy cabin based on the structure of a honeycomb <OBJ>cabin.obj</OBJ> and <IMG>honeycomb.png</IMG>.

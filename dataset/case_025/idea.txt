@@ -1,0 +1,1 @@
+Combine the 3D models <OBJ>spaceship.obj</OBJ>, <OBJ>alien.obj</OBJ>, and <IMG>planet.png</IMG> to create a space exploration scene.

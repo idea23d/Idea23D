@@ -1,0 +1,1 @@
+Arrange the 3D models <OBJ>bench.obj</OBJ>, and <OBJ>lamp.obj</OBJ> to create a park scene.

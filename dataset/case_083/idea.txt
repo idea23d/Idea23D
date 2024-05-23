@@ -1,0 +1,1 @@
+Create a teacup with a handle that looks like a snake <OBJ>teacup.obj</OBJ> and <IMG>snake_handle.png</IMG>.

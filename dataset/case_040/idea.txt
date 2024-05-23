@@ -1,0 +1,1 @@
+Position the bear in image <IMG>bear.png</IMG> catching the fish from model <OBJ>fish.obj</OBJ>.

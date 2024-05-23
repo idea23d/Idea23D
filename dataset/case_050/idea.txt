@@ -1,0 +1,1 @@
+This fish <OBJ>fish.obj</OBJ> should have scales like the ones in <IMG>fish_scales.png</IMG>.

@@ -1,0 +1,1 @@
+Design a gazebo that looks like it’s made from giant seashells <OBJ>gazebo.obj</OBJ> and <IMG>seashell.png</IMG>.

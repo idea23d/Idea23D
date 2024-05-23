@@ -1,0 +1,1 @@
+Change the statue in image <IMG>statue.png</IMG> to hold a torch and generate a 3D model.

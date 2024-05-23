@@ -1,0 +1,1 @@
+Picasso's classic painting on the front of this teapot model <OBJ>casen.obj</OBJ>.

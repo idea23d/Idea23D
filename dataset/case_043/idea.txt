@@ -1,0 +1,1 @@
+Combine the shape of <OBJ>tree.obj</OBJ> with the leaves in <IMG>leaves.png</IMG> to create a realistic tree.

@@ -1,0 +1,1 @@
+This robot <OBJ>robot.obj</OBJ> should have a futuristic design like the one in <IMG>futuristic_design.png</IMG>.

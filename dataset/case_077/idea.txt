@@ -1,0 +1,1 @@
+Make an elephant with ears that look like they’re made of clouds <OBJ>elephant.obj</OBJ> and <IMG>cloud_ears.png</IMG>.

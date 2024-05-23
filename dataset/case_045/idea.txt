@@ -1,0 +1,1 @@
+Combine the texture of wood in <IMG>wood_texture.png</IMG> with the shape of <OBJ>chair.obj</OBJ> to create a wooden chair.

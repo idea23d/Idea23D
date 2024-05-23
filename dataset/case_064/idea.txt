@@ -1,0 +1,1 @@
+Design a chair with the seat inspired by the texture of a kiwi fruit <OBJ>chair.obj</OBJ> and <IMG>kiwi_texture.png</IMG>.

@@ -1,0 +1,1 @@
+Turn the skin of this elephant <OBJ>elephant.obj</OBJ> into a gold style.

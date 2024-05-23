@@ -1,0 +1,1 @@
+Turn this mermaid <OBJ>mermaid.obj</OBJ> tail red.

@@ -1,0 +1,1 @@
+Create a dragon with scales inspired by the texture of a pineapple <OBJ>dragon.obj</OBJ> and <IMG>pineapple.png</IMG>.

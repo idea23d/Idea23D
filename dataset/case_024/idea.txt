@@ -1,0 +1,1 @@
+Place the 3D models <OBJ>knight.obj</OBJ>, <OBJ>castle.obj</OBJ>, and <OBJ>dragon.obj</OBJ> to create a medieval battle scene.

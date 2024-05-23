@@ -1,0 +1,1 @@
+Create a birdhouse using the design of <OBJ>birdhouse.obj</OBJ> and the wood texture from <IMG>wood_texture.png</IMG>.

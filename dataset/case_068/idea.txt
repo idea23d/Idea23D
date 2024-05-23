@@ -1,0 +1,1 @@
+A chair designed with a seat that looks like a sunflower <OBJ>chair.obj</OBJ> and <IMG>sunflower.png</IMG>.

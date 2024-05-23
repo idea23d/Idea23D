@@ -1,0 +1,1 @@
+Have the knight in image <IMG>knight.png</IMG> wield the sword from model <OBJ>sword.obj</OBJ>.

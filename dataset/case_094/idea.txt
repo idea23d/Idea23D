@@ -1,0 +1,1 @@
+Based on the grace of a flamingo, design an elegant table lamp <OBJ>table_lamp.obj</OBJ> and <IMG>flamingo.png</IMG>.

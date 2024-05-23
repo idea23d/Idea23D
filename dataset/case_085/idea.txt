@@ -1,0 +1,1 @@
+Design a castle with walls that look like they are made of books <OBJ>castle.obj</OBJ> and <IMG>books.png</IMG>.

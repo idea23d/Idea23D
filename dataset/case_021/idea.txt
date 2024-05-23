@@ -1,0 +1,1 @@
+Arrange the 3D model <OBJ>tank.obj</OBJ> with the image <IMG>battlefield_1.png</IMG> to create a battlefield scene.

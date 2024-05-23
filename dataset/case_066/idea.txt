@@ -1,0 +1,1 @@
+Create a 3D model of a bird with wings that look like maple leaves <OBJ>bird.obj</OBJ> and <IMG>maple_leaves.png</IMG>.

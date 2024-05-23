@@ -1,0 +1,1 @@
+Using this 3D model of a rabbit <OBJ>rabbit.obj</OBJ>, create a charming garden ornament.

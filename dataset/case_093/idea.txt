@@ -1,0 +1,1 @@
+Based on the rustic charm of a barn, design a countryside retreat <OBJ>retreat.obj</OBJ> and <IMG>barn.png</IMG>.

@@ -1,0 +1,1 @@
+Make a chair with a seat that looks like a lily pad <OBJ>chair.obj</OBJ> and <IMG>lily_pad.png</IMG>.

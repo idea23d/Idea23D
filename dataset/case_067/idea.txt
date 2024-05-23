@@ -1,0 +1,1 @@
+Create a dragon with a body that looks like it's made of volcanic rock <OBJ>dragon.obj</OBJ> and <IMG>volcanic_rock.png</IMG>.

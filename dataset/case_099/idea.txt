@@ -1,0 +1,1 @@
+Using this 3D model of a penguin <OBJ>penguin.obj</OBJ>, create a cute kitchen timer.

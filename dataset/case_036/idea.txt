@@ -1,0 +1,1 @@
+Place the bunny in image <IMG>bunny.png</IMG> inside the hat from model <OBJ>hat.obj</OBJ>.

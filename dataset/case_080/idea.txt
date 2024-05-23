@@ -1,0 +1,1 @@
+Make a chameleon that changes colors to look like various types of fabric <OBJ>chameleon.obj</OBJ> and <IMG>fabric_patterns.png</IMG>.

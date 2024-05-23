@@ -1,0 +1,1 @@
+Make a penguin with a body that looks like it’s made of ice <OBJ>penguin.obj</OBJ> and <IMG>ice_body.png</IMG>.

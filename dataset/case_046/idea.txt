@@ -1,0 +1,1 @@
+Create an alien creature using the design of <OBJ>alien.obj</OBJ> and the skin texture from <IMG>alien_skin.png</IMG>.

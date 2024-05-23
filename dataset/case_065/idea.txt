@@ -1,0 +1,1 @@
+A lamp shaped like a mushroom, with a glowing cap <OBJ>lamp.obj</OBJ> and <IMG>mushroom_cap.png</IMG>.

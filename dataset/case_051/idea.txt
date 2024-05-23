@@ -1,0 +1,1 @@
+Create a bear statue <OBJ>bear.obj</OBJ> with fur texture from <IMG>fur_texture.png</IMG>.

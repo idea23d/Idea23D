@@ -1,0 +1,1 @@
+Create a fantasy castle where the towers are shaped like mushrooms <OBJ>castle.obj</OBJ> and <IMG>mushroom.png</IMG>.

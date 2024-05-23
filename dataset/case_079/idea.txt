@@ -1,0 +1,1 @@
+Design a squirrel with a tail that looks like it’s made of stars <OBJ>squirrel.obj</OBJ>.

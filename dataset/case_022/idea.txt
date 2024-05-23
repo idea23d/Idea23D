@@ -1,0 +1,1 @@
+Combine the images <IMG>building_1.png</IMG>, <IMG>street_1.png</IMG>, and <IMG>car_1.png</IMG> to create a city scene.

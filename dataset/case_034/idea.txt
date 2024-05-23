@@ -1,0 +1,1 @@
+Fuse the textures from image <IMG>texture.png</IMG> with the architectural design in image <IMG>architecture.png</IMG> to create a 3D building.

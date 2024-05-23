@@ -1,0 +1,1 @@
+Create a giraffe with spots that look like patches of denim <OBJ>giraffe.obj</OBJ> and <IMG>denim_spots.png</IMG>.

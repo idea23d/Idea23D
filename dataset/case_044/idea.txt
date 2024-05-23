@@ -1,0 +1,1 @@
+This sculpture <OBJ>sculpture.obj</OBJ> should have the stone texture from <IMG>stone_texture.png</IMG>.

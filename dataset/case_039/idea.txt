@@ -1,0 +1,1 @@
+Have the squirrel in image <IMG>squirrel.png</IMG> hold the acorn from model <OBJ>acorn.obj</OBJ>.

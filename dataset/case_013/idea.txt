@@ -1,0 +1,1 @@
+The cat after swallowing <OBJ>cat.obj</OBJ> this huge mango <IMG>a_m_2.png</IMG> whole.

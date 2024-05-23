@@ -1,0 +1,1 @@
+A hippo with skin that looks like it’s made of crystal <OBJ>hippo.obj</OBJ> and <IMG>crystal_skin.png</IMG>.

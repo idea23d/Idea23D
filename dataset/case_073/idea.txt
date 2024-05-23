@@ -1,0 +1,1 @@
+Make a fish with scales that look like pieces of candy <OBJ>fish.obj</OBJ> and <IMG>candy.png</IMG>.

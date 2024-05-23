@@ -1,0 +1,1 @@
+This vase <OBJ>vase.obj</OBJ> should have the floral pattern from <IMG>floral_pattern.png</IMG>.

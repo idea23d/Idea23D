@@ -1,0 +1,1 @@
+Merge the 3D model <OBJ>lion.obj</OBJ> with the 3D model <OBJ>eagle.obj</OBJ> to create a griffin.

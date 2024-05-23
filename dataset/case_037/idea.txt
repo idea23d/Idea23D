@@ -1,0 +1,1 @@
+Place the flower in image <IMG>flower.png</IMG> into the vase from model <OBJ>vase.obj</OBJ>.

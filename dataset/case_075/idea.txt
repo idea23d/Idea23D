@@ -1,0 +1,1 @@
+Design a hedgehog with quills that resemble candy canes <OBJ>hedgehog.obj</OBJ> and <IMG>candy_canes.png</IMG>.

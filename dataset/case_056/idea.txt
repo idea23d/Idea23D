@@ -1,0 +1,1 @@
+Edit the 3D model <OBJ>cupboard.obj</OBJ> to have glass doors.

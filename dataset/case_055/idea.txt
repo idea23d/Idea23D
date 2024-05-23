@@ -1,0 +1,1 @@
+Create a robot model <OBJ>robot.obj</OBJ> with the tech texture from <IMG>tech_texture_2.png</IMG>.

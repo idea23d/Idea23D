@@ -1,0 +1,1 @@
+A bike with a frame designed to look like it’s made from interwoven rope <OBJ>bike.obj</OBJ> and <IMG>rope.png</IMG>.

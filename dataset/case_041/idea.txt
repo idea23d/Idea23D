@@ -1,0 +1,1 @@
+Place the dog in image <IMG>dog.png</IMG> inside the doghouse from model <OBJ>doghouse.obj</OBJ>.
