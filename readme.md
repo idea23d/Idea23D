@@ -7,7 +7,7 @@
 
 ---
 
-## [🗂Project Page](https://idea23d.github.io/) | [![GitHub Repo Stars](https://img.shields.io/github/stars/idea23d/idea23d-code?label=stars&logo=github&color=brightgreen)](https://github.com/idea23d/idea23d-code) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6#scrollTo=gowB9aTSSSPK)
+## [🗂Project Page](https://idea23d.github.io/) | [![GitHub Repo Stars](https://img.shields.io/github/stars/idea23d/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/idea23d/Idea23D) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6#scrollTo=gowB9aTSSSPK)
 
 
 
